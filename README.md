@@ -47,6 +47,22 @@ This project starts by building on the work of others.
 * https://www.guysmagnets.com/neodymium-magnets-c11/guys-magnets-1-mm-x-0-5-mm-n52-high-grade-neodymium-disk-100-piece-pack-p27009
 * Pogo Pins from Aliexpress/Digikey/LCSC
 
+### Braille Standards
+
+* ISO 17049:2013 (Accessible design — Application of braille on signage, equipment and appliances)
+    * Costs Money
+
+* Size and Spacing: https://brailleauthority.org/size-and-spacing-braille-characters
+
+| Parameter                                                | Min (mm) | Max (mm) | Nominal for Embossing (mm) |
+|----------------------------------------------------------|----------|----------|----------------------------|
+| Dot Base Diameter                                        | 1.5      | 1.6      | 1.44                       |
+| Dot height                                               | 0.6      | 0.9      | 0.48                       |
+| Dist. between two dots in the same cell                  | 2.3      | 2.5      | 2.34                       |
+| Dist. between corresponding dots in cells (char-to-char) | 6.1      | 7.6      | 6.20                       |
+| Dist. between corresponding dots in cells (row-to-row)   | 10.0     | 10.2     | 10.00                      |
+
+
 ### Work-in-Progress/Inspiration-Only References
 * 3D Printed Braille Display (unknown quality/completion): https://www.thingiverse.com/thing:90144
 * DIY Braille Display and input device: https://github.com/brailletouch/Brailletouch
