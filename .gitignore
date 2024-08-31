@@ -8,6 +8,7 @@ replicate_layout.log
 ~*.lck
 production/
 pcbway_production/
+exports/
 
 # Libre Office lock files
 .~*

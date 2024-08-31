@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "2cc7eec2-b017-4854-931a-ffd441698ab0")
 	(paper "USLetter")
+	(title_block
+		(date "2024-08-30")
+		(rev "Rev 1")
+	)
 	(lib_symbols
 		(symbol "Braille_Display_Symbol_Lib:RP2040-Zero"
 			(exclude_from_sim no)
@@ -8069,7 +8073,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 76.2 177.8 0)
 			(effects
 				(font
@@ -8277,7 +8281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 80.01 177.8 0)
 			(effects
 				(font

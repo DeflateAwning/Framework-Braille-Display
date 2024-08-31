@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "6c472306-842f-4b48-8944-fa4d12d491c9")
 	(paper "USLetter")
+	(title_block
+		(date "2024-08-30")
+		(rev "Rev 1")
+	)
 	(lib_symbols
 		(symbol "Braille_Display_Symbol_Lib:Solenoid_Braille_Cell"
 			(exclude_from_sim no)
