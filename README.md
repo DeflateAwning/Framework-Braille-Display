@@ -51,6 +51,7 @@ This project starts by building on the work of others.
 
 * ISO 17049:2013 (Accessible design — Application of braille on signage, equipment and appliances)
     * Costs Money
+    * MD5: 78382b69617f8f8a37b79db3e3edf05d, 033f32911e9422627900a3025d78ad19
 
 * Size and Spacing: https://brailleauthority.org/size-and-spacing-braille-characters
 
@@ -76,6 +77,9 @@ This project starts by building on the work of others.
     * https://www.hackster.io/news/modular-low-cost-braille-electronic-display-molbed-f3872d53f0d3
     * Pin Assembly: https://www.youtube.com/watch?v=eobXfH6CkRc
 * Software: https://libbraille.org/libbraille-a-software-to-easily-develop-braille-display/
+
+* [Optima Project](https://accessmind.io/optima.php) makes an entire "laptop", probably from a Framework device.
+
 
 ### Community
 * Braille Embosser (Printer): https://www.braillerap.org/en/

@@ -1,6 +1,17 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
+# New Additions (KiCAD)
+*-backups
+*auto_saved_files*
+replicate_layout.log
+~*.lck
+production/
+pcbway_production/
+
+# Libre Office lock files
+.~*
+
 # Temporary files
 *.000
 *.bak
